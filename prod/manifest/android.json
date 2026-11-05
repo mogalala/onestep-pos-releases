@@ -1,11 +1,11 @@
 {
   "platform": "android",
   "env": "prod",
-  "version": "2.0.0",
-  "build": 1113,
-  "url": "https://github.com/mogalala/onestep-pos-releases/releases/download/prod-android-2.0.0-b1113/one_step_pos-prod-2.0.0.apk",
+  "version": "2.0.1",
+  "build": 1114,
+  "url": "https://github.com/mogalala/onestep-pos-releases/releases/download/prod-android-2.0.1-b1114/one_step_pos-prod-2.0.1.apk",
   "size_bytes": 82401765,
-  "sha256": "6a298f2f58a50175d5fe6ff5aa7154540f8aacfb53899bdfed4a7a9a695069a8",
-  "published_at": "2026-11-05T14:54:48Z",
+  "sha256": "c533919678a1c4eefdac52e7cc1bd509c46fe9ca4a3095ae16dad457f8c06980",
+  "published_at": "2026-11-05T15:31:28Z",
   "min_supported_build": 0
 }
