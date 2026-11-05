@@ -1,11 +1,11 @@
 {
   "platform": "windows",
   "env": "prod",
-  "version": "2.0.0",
-  "build": 1113,
-  "url": "https://github.com/mogalala/onestep-pos-releases/releases/download/prod-windows-2.0.0-b1113/OneStepPOS-Setup-2.0.0.exe",
-  "size_bytes": 19031577,
-  "sha256": "55a1547d7ad3fb02b96b4bf33da23727eec6712969765e2bf4804eca46b3a1a3",
-  "published_at": "2026-11-05T14:55:15Z",
+  "version": "2.0.1",
+  "build": 1114,
+  "url": "https://github.com/mogalala/onestep-pos-releases/releases/download/prod-windows-2.0.1-b1114/OneStepPOS-Setup-2.0.1.exe",
+  "size_bytes": 19034716,
+  "sha256": "ee6c864379558491e77b6fae22e07ab0b3892e03b0fe11a66e6347e3a8e4602f",
+  "published_at": "2026-11-05T15:27:06Z",
   "min_supported_build": 0
 }
