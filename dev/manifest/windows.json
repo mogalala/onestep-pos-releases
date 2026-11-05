@@ -1,0 +1,11 @@
+{
+  "platform": "windows",
+  "env": "dev",
+  "version": "1.0.0",
+  "build": 1068,
+  "url": "https://github.com/mogalala/onestep-pos-releases/releases/download/dev-windows-1.0.0-b1068/OneStepPOS-Dev-Setup-1.0.0.exe",
+  "size_bytes": 19015965,
+  "sha256": "50889635905426b9d98a64c14d68d82d6c98607ff528acc96fab7d3285487eb4",
+  "published_at": "2026-11-05T06:03:39Z",
+  "min_supported_build": 0
+}
