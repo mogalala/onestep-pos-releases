@@ -1,0 +1,11 @@
+{
+  "platform": "android",
+  "env": "dev",
+  "version": "1.0.0",
+  "build": 1065,
+  "url": "https://github.com/mogalala/onestep-pos-releases/releases/download/dev-android-1.0.0-b1065/one_step_pos-dev-1.0.0.apk",
+  "size_bytes": 82024293,
+  "sha256": "c10d1f9f0386f681e4239811a6a6a5d2a76e3ec228245cf2612761770712e4ac",
+  "published_at": "2026-11-05T04:31:36Z",
+  "min_supported_build": 0
+}
