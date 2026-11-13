@@ -2,10 +2,10 @@
   "platform": "windows",
   "env": "dev",
   "version": "2.0.0",
-  "build": 1146,
-  "url": "https://github.com/mogalala/onestep-pos-releases/releases/download/dev-windows-2.0.0-b1146/OneStepPOS-Dev-Setup-2.0.0.exe",
-  "size_bytes": 19116456,
-  "sha256": "4e94f09e8102f4d745fc3f7509bf77208effcd2fb0e92a6186f8919168d84cdd",
-  "published_at": "2026-11-09T18:08:19Z",
+  "build": 1162,
+  "url": "https://github.com/mogalala/onestep-pos-releases/releases/download/dev-windows-2.0.0-b1162/OneStepPOS-Dev-Setup-2.0.0.exe",
+  "size_bytes": 19123764,
+  "sha256": "d0b2d8b4db24e3fc30d81fc35408a2aff8d538f9363dd3ad891f15d64f8bddf0",
+  "published_at": "2026-11-13T14:42:16Z",
   "min_supported_build": 0
 }
